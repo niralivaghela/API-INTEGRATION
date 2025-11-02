@@ -11,25 +11,26 @@
 
 *MENTOR* : NEELA SANTOSH
 
-🌦️ Weather Dashboard
-🚀 A Full-Stack Smart Weather Application built with PHP, MySQL, JavaScript & OpenWeatherMap API
 
-This project is a feature-rich, responsive weather web application that fetches real-time weather data from the OpenWeatherMap API, processes it through a PHP backend, stores recent searches in a MySQL database, and visualizes forecasts using Chart.js.
+*🌦️ Weather Dashboard*
+*🚀 A Full-Stack Smart Weather Application built with PHP, MySQL, JavaScript & OpenWeatherMap API*
 
-It’s designed as a complete full-stack project — combining frontend elegance with backend intelligence — perfect for college projects, hackathons, or portfolios.
+*This project is a feature-rich, responsive weather web application that fetches real-time weather data from the OpenWeatherMap API, processes it through a PHP backend, stores recent searches in a MySQL database, and visualizes forecasts using Chart.js.*
 
-🧱 Tech Stack
+*It’s designed as a complete full-stack project — combining frontend elegance with backend intelligence — perfect for college projects, hackathons, or portfolios.*
 
-Frontend:
+*🧱 Tech Stack*
 
-HTML5, CSS3, Bootstrap 5
+*Frontend:*
 
-JavaScript (Fetch API, Chart.js, DOM Manipulation)
+  HTML5, CSS3, Bootstrap 5
+  
+  JavaScript (Fetch API, Chart.js, DOM Manipulation)
 
-Backend:
+*Backend:*
 
-PHP 8+
-
-MySQL Database
-
-OpenWeatherMap REST API Integration
+  PHP 8+
+  
+  MySQL Database
+  
+  OpenWeatherMap REST API Integration
