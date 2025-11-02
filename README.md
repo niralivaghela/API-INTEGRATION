@@ -34,3 +34,6 @@
   MySQL Database
   
   OpenWeatherMap REST API Integration
+
+  *OUTPUT:*
+  <img width="459" height="500" alt="Image" src="https://github.com/user-attachments/assets/147da3b1-6671-4fc0-ac8f-49f45b8b1820" />
