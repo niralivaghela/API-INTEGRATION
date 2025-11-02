@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(180deg, #a8e6ff, #fff);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.weather-container {
+  margin: 60px auto;
+  max-width: 900px;
+  background: #fff;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.weather-icon img {
+  width: 80px;
+}
+
+.forecast-card {
+  background: #f8f9fa;
+  padding: 15px;
+  border-radius: 10px;
+  margin: 10px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
